@@ -10,5 +10,8 @@
         <body>
             <header>
                 <p>Ceci est un header</p>
+                <a href="?module=regles&action=liste_regles">Regles</a>
+                <br />
+                <a href="?module=accueil&action=home">Accueil</a>
             </header>
             <div id="page">
