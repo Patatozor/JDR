@@ -1,3 +1,3 @@
 <?php
-echo 'Hello World';
-echo 'test';
+include_once('../libs/traitement_string.php');
+include_once('../config/environnement.php');
