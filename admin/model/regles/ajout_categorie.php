@@ -9,7 +9,7 @@ function insert_categorie($titre_categorie,$description_categorie_de_regles){
         (:titre,:description)
         ");
         $query->bindValue(':titre',$titre_categorie,PDO::PARAM_STR);
-        $query->bindValue(':desciption',$description_categorie_de_regles,PDO::PARAM_STR);
+        $query->bindValue(':description',$description_categorie_de_regles,PDO::PARAM_STR);
         $query->execute();
         return true;
     }
