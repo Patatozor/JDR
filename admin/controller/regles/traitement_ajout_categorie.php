@@ -8,4 +8,5 @@ if(isset($_POST['nom_categorie_de_regles'])){
         header($locationerror);
         exit;
     }
+    echo 'toto';
 }
