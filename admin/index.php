@@ -1,6 +1,7 @@
 <?php
 include_once('../libs/traitement_string.php');
 include_once('../libs/session.php');
+include_once('../libs/test_string.php');
 include_once('../config/environnement.php');
 if(my_session_start(SESSION)){
     include_once('model/connexion_bdd.php');
