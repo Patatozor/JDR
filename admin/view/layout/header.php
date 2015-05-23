@@ -11,6 +11,7 @@
             <header>
                 <p>Ceci est un header</p>
                 <a href="?module=regles&action=liste_regles">Regles</a>
+                <a href="?module=regles&action=ajout_categorie">Ajouter une catégorie</a>
                 <br />
                 <a href="?module=accueil&action=home">Accueil</a>
             </header>
