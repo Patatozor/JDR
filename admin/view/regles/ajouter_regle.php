@@ -6,7 +6,7 @@
         <label for='nom_regles'>Nom de la regle :</label>
         <input type='text' name='nom_regles' id='nom_regles' value=''/>
         <label for='description_regles'>Contenu de la règle :</label>
-        <textarea rows='10' cols='50' value='' name='description_regles' id='description_regles' placeholder=""></textarea>
+        <textarea rows='10' cols='50' name='description_regles' id='description_regles' placeholder=""></textarea>
         <input type='submit' value='Envoyer'/>
     </form>
 <?php include_once(FOOTER); ?>
