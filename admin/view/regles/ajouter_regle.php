@@ -1,6 +1,6 @@
 <?php include_once(HEADER); ?>
 <p>Voici la page pour l'ajout d'une règle</p>
-    <form method='post' action=''>
+    <form method='post' action='traitement_ajout_regle.php'>
         <label for='titre_regles'>Titre :</label>
         <input type='text' name='titre_regles' id='titre_regles' value=''/>
         <label for='nom_regles'>Nom de la regle :</label>
