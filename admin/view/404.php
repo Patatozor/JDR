@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
+<?php include_once(HEADER); ?>
     <p>La page à laquelle vous tentez d'accéder est malade, elle est partie chez le médecin</p>
-</body>
-</html>
+<?php include_once(FOOTER); ?>

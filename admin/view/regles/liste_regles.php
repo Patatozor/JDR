@@ -1,5 +1,5 @@
 <?php include_once(HEADER); ?>
 
-<p>Hello world</p>
+<p>Bonjour, je suis une règle</p>
 
 <?php include_once(FOOTER); ?>
