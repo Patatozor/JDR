@@ -1,2 +1,2 @@
 <?php
-bite bite bind_textdomain_codeset();
+echo 'Hello World';
