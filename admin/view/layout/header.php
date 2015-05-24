@@ -9,7 +9,7 @@
         </head>
         <body>
             <header>
-                <p>Ceci est un header</p>
+                <h2>Projet JDR</h2>
                 <a href="?module=regles&action=liste_regles">Regles</a>
                 <a href="?module=regles&action=ajout_categorie">Ajouter une catégorie</a>
                 <br />
