@@ -6,5 +6,8 @@
             $_POST : <?php var_dump($_POST); ?><br />
             $title : <?php var_dump($title); ?><br />
         </pre>
-    </body>
+
+        <script type="text/javascript" src="../assets/js/jquery-1.11.3.js"></script>
+        <script type="text/javascript" src="../assets/js/menu_deroulant.js"></script>
+        </body>
 </html>
