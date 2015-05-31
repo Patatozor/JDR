@@ -20,9 +20,9 @@
                         <a href="?module=regles&action=liste_regles">Règles</a>
                         <ul class="dropdown">
                             <li><a href="?module=regles&action=liste_regles">Liste des règles</a></li>
-                            <li><a href="?module=regles&action=ajout_categorie">Ajouter une règle</a></li>
-                            <li><a href="#">Liste des catégories</a></li>
-                            <li><a href="#">Ajouter une catégorie</a></li>
+                            <li><a href="?module=regles&action=ajout_regle">Ajouter une règle</a></li>
+                            <li><a href="?module=regles&action=liste_categories">Liste des catégories</a></li>
+                            <li><a href="?module=regles&action=ajout_categorie">Ajouter une catégorie</a></li>
                         </ul>
                     </li>
                     <li>
